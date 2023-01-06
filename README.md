@@ -4,6 +4,5 @@ adaper filter algorithm. LMS and RLS are adapter filter algorithms which I used 
 
 In folders, the "random_binary.m" can product some "±1" info-sequeeces, the "channel.m", "ISI_generation.m"and "gngauss.m" create
 a channel with ISI and awgn, three "main_plot_" are the main program for three algorithms' simulations, "lms_equalizer.m",
-"rls_equalizer.m" and "force_zero.m" are implements for three algorithms. Besides, I provide the mliti-iteration versions for
-two adapter algorithms.
+"rls_equalizer.m" and "force_zero.m" are implements for three algorithms. 
 
